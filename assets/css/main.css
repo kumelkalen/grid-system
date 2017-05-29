@@ -28,3 +28,15 @@ header{
 	top: 40%;
 	left: 35%;
 }
+
+.col-12{
+	background-image: url(http://lorempixel.com/1024/400/cats/);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 40vh;
+}
+
+.boton{
+	float:right;
+}
